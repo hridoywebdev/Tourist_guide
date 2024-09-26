@@ -1,0 +1,3 @@
+This project involves developing a dynamic website for a tourism business, developed by Tanvir Hossain and Rahat Rahman, aimed at planning trips and managing travel packages. 
+
+It features a centralized repository for travel arrangements, with access to hotels, restaurants, and tourist attractions. The site supports both professional and business trips. The development uses PHP, JavaScript, HTML, CSS, and MySQL. The system design includes flowcharts, use case, and class diagrams. User modules include registration, login, and booking history, while admin modules offer a dashboard for managing tours, packages, and users, along with email marketing functionality. Future enhancements include a mobile app and live chat features.
